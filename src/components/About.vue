@@ -11,7 +11,7 @@
           I am a 16 year old Programmer. I have expertise in Web development, App development, Software Development and Artificial Intelligence. I started programming when I was 12 and now I have 4 years expertise in these technologies. I love programming and building with the skills I have. I love exploring Machine Learning, Deep learning and Computer Vision in general.
         </p>
         <div class="social-links">
-          <a href="https://www.linkedin.com/in/jtsoares/" target="_blank">
+          <a href="https://www.linkedin.com/in/oyenolaphilip/" target="_blank">
             <span class="social__span">
               Linkedin
             </span>
@@ -25,7 +25,7 @@
             <img src="../assets/github-icon.svg" alt="Icone GitHub" />
           </a>
 
-          <a href="https://www.instagram.com/tulio_joaob/" target="_blank">
+          <a href="https://www.instagram.com/travelpartna/" target="_blank">
             <span class="social__span">
               Instagram
             </span>
