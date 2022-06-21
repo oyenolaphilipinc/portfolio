@@ -111,7 +111,7 @@
             class="btn"
             title="Veja o site"
             aria-labelledby="Veja mais"
-            >Veja Mais</a
+            >Visit</a
           >
         </div>
       </div>
