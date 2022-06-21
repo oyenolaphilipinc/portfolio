@@ -1,17 +1,14 @@
 <template>
   <section id="sobre" ref="target">
     <div class="title-section">
-      <h1>Sobre mim</h1>
+      <h1>About Me</h1>
     </div>
     <div class="container">
       <div class="profile" data-aos="fade-right"></div>
       <div class="about" data-aos="fade-left">
-        <h2>Olá, me chamo João Túlio</h2>
+        <h2>Hi there I am Philip</h2>
         <p>
-          Sou um jovem desenvolvedor formado em técnico em informática. Sou
-          apaixonado por progamação e pelo aprendizado. Gosto de estar sempre me
-          aprimorando como profissional e sempre busco novos desafios e
-          experiências para me aperfeiçoar.
+          I am a 16 year old Programmer. I have expertise in Web development, App development, Software Development and Artificial Intelligence. I started programming when I was 12 and now I have 4 years expertise in these technologies. I love programming and building with the skills I have. I love exploring Machine Learning, Deep learning and Computer Vision in general.
         </p>
         <div class="social-links">
           <a href="https://www.linkedin.com/in/jtsoares/" target="_blank">
@@ -21,7 +18,7 @@
             <img src="../assets/linkedin-icon.svg" alt="Icone Linkedin" />
           </a>
 
-          <a href="https://github.com/joaotuliojt" target="_blank">
+          <a href="https://github.com/oyenolaayomide" target="_blank">
             <span class="social__span">
               GitHub
             </span>
@@ -45,8 +42,8 @@
             <img src="../assets/discord-icon.svg" alt="Icone Discord" />
           </a>
         </div>
-        <a class="btn" href="/Curriculo.pdf" download="CV_JoaoTulio.pdf"
-          >Baixar curriculo
+        <a class="btn" href="/brandresume.pdf" download="Philip_CV.pdf"
+          >Check My Cv
         </a>
       </div>
     </div>
@@ -68,7 +65,7 @@ section {
   gap: 2rem;
 }
 .profile {
-  background-image: url("../assets/profile.jpg");
+  background-image: url("../assets/bossman.jpg");
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;

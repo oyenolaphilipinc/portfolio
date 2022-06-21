@@ -1,7 +1,7 @@
 <template>
   <div class="loading" v-if="loading">
     <atom-spinner :animation-duration="1000" :size="180" :color="'#8257e6'" />
-    <p>Carregando...</p>
+    <p>Loading...</p>
   </div>
   <header-component></header-component>
   <main>

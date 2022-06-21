@@ -9,11 +9,11 @@
       shapeType="triangle"
     ></vue-particles>
     <div class="home__title">
-      <h1>Olá, eu sou o João</h1>
+      <h1>Hi I am Philip, Welcome to my Portfolio</h1>
     </div>
     <div class="home__message">
       <h2>
-        <span class="pre-message">Apaixonado por: </span>
+        <span class="pre-message">Hobbies: </span>
         <span id="type-writter" class="typed"></span>
       </h2>
     </div>
@@ -44,7 +44,7 @@ export default {
   mounted() {
     let script = document.createElement("script");
     script.innerHTML = `var typed = new Typed("#type-writter", {
-      strings: ["Programação","HTML", "CSS", "JavaScript", "Vue.Js", "Jogos", "Música"],
+      strings: ["Programming","HTML", "CSS", "JavaScript", "Vue.Js", "React.Js", "Python", "Machine Learning"],
       typeSpeed: 70,
       smartBackspace: true,
       startDelay: 1000,

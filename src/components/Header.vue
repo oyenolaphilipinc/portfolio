@@ -1,12 +1,12 @@
 <template>
   <header id="header">
-    <a href="#home" id="logo"> J.T</a>
+    <a href="#home" id="logo"> O.P</a>
     <nav class="navigation" @click="close">
       <a href="#home">Home</a>
-      <a href="#sobre">Sobre mim</a>
-      <a href="#habilidades">Habilidades</a>
-      <a href="#portfolio">Portfólio</a>
-      <a href="#contato">Contato</a>
+      <a href="#sobre">About Me</a>
+      <a href="#habilidades">Skills</a>
+      <a href="#portfolio">Projects</a>
+      <a href="#contato">Contact</a>
     </nav>
 
     <div @click="toggleMenu" class="menu-hamburguer"></div>

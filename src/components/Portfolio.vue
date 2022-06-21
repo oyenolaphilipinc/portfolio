@@ -1,7 +1,7 @@
 <template>
   <section id="portfolio">
     <div class="title-section">
-      <h1>Portfólio</h1>
+      <h1>Projects</h1>
     </div>
     <div class="container">
       <div class="project" data-aos="fade-up">
@@ -79,7 +79,7 @@
       </div>
     </div>
     <div class="title-section">
-      <h2>Projetos de estudo</h2>
+      <h2>Real time Projects</h2>
     </div>
     <div class="container">
       <div class="project" data-aos="fade-up">

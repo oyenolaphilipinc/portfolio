@@ -1,6 +1,6 @@
 <template>
   <footer>
-    <p>&copy; {{ data }} Todos direitos reservados</p>
+    <p>&copy; {{ data }} right reserved</p>
   </footer>
 </template>
 

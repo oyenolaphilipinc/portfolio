@@ -1,13 +1,13 @@
 <template>
   <section id="contato">
     <div class="title-section">
-      <h1>Contato</h1>
+      <h1>Contact Me</h1>
     </div>
     <div class="container">
       <div class="card">
         <img src="../assets/mail-icon.svg" alt="Ícone de email" />
-        <a href="mailto:joaotuliosoares@hotmail.com"
-          >joaotuliosoares@hotmail.com</a
+        <a href="mailto:oyenolaphilip89@gmail.com"
+          >oyenolaphilip89@gmail.com</a
         >
       </div>
       <div class="card">
@@ -16,7 +16,7 @@
       </div>
     </div>
     <div class="title-section">
-      <h4>Entre em Contato</h4>
+      <h4>Message Me</h4>
     </div>
     <div class="contact-form">
       <form id="form" action="https://formspree.io/f/mvodydyd" method="POST">
@@ -28,7 +28,7 @@
           required
         />
         <textarea
-          placeholder="Deixe sua mensagem"
+          placeholder="Your Message"
           name="message"
           required
         ></textarea>
