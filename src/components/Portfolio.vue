@@ -14,9 +14,7 @@
         <div class="description">
           <h3>Hackathon: FCallendar</h3>
           <p>
-            O FCallendar é uma aplicação WEB criada para ajudar no gerenciamento
-            na volta dos profissionais para o escritório na pandemia do COVID-19
-            para evitar aglomeramento e superlotação.
+            FCallendar app built in Javscript and connected a backend to it. it is fun and great to work with.
           </p>
           <a
             href="https://github.com/joaotuliojt/fc-squad43"
@@ -24,7 +22,7 @@
             class="btn"
             title="Veja o site"
             aria-labelledby="Veja mais"
-            >Veja Mais</a
+            >Visit</a
           >
         </div>
       </div>
@@ -39,9 +37,7 @@
         <div class="description">
           <h3>Music Library Page</h3>
           <p>
-            Um dashboard de um sistema de músicas semelhante ao Spotify, onde é
-            possível visualizar playlists, tracks e artistas. DevChallenge by
-            Emmanuel Messias
+            A music library page built in HTML and CSS. This project is also fun and great.
           </p>
           <a
             href="https://joaotuliojt.github.io/dv-musica-library-page/"
@@ -49,7 +45,7 @@
             class="btn"
             title="Veja o site"
             aria-labelledby="Veja mais"
-            >Veja Mais</a
+            >Visit</a
           >
         </div>
       </div>
@@ -64,8 +60,7 @@
         <div class="description">
           <h3>Frontend Mentor - Sunnyside agency landing page</h3>
           <p>
-            Uma landing page proposta pela Frontend Mentor. O projeto se trata
-            de uma landing page bonita e colorida.
+           Frontend mentor project oriented. This project is built in JavaScript
           </p>
           <a
             href="https://joaotuliojt.github.io/sunnyside-agency/"
@@ -73,7 +68,7 @@
             class="btn"
             title="Veja o site"
             aria-labelledby="Veja mais"
-            >Veja Mais</a
+            >Visit</a
           >
         </div>
       </div>
@@ -89,9 +84,7 @@
         <div class="description">
           <h3>Relógio Digital</h3>
           <p>
-            Um relógio digital feito com HTML, CSS e JavaScript com intuito de
-            aprofundar mais sobre o objeto Date do JS e estilizações e animações
-            com CSS.
+            Built in Html, CSS and Javascript
           </p>
           <a
             href="https://joaotuliojt.github.io/relogio-digital-js/"
@@ -99,7 +92,7 @@
             class="btn"
             title="Veja o site"
             aria-labelledby="Veja mais"
-            >Veja Mais</a
+            >Visit</a
           >
         </div>
       </div>
@@ -110,8 +103,7 @@
         <div class="description">
           <h3>Cronômetro</h3>
           <p>
-            Um cronômetro feito com HTML, CSS e JavaScript com intuito de
-            aprofundar mais sobre o objeto Date do Js e estilzações com CSS.
+            An HTML, CSS and JavaScript oriented project.
           </p>
           <a
             href="https://joaotuliojt.github.io/timer-Js/"
