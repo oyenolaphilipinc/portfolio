@@ -72,6 +72,12 @@
           <h3>Sass</h3>
         </div>
       </div>
+      <div class="card">
+        <div class="card__header bg-react">
+          <img src="../assets/react.png" alt="React icon" />
+          <h3>React</h3>
+        </div>
+      </div>
     </div>
   </section>
 </template>
@@ -159,6 +165,10 @@ section {
 
 .card:hover .bg-sass {
   background: #803358;
+}
+
+.card:hover .bg-react {
+  background: #12457a;
 }
 
 @media (max-width: 850px) {
