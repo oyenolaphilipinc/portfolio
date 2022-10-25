@@ -44,7 +44,7 @@ export default {
   mounted() {
     let script = document.createElement("script");
     script.innerHTML = `var typed = new Typed("#type-writter", {
-      strings: ["Programming","HTML", "CSS", "JavaScript", "Vue.Js", "React.Js", "Python", "Machine Learning"],
+      strings: ["Programming", "JavaScript", "TypeScript", "React.Js", "Python", "Machine Learning"],
       typeSpeed: 70,
       smartBackspace: true,
       startDelay: 1000,

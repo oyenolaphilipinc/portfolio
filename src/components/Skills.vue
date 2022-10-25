@@ -25,18 +25,6 @@
       <div class="card">
         <div class="card__header bg-vue">
           <img src="../assets/vue-icon.svg" alt="Vue icon" />
-          <h3>Vue.Js</h3>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card__header bg-angular">
-          <img src="../assets/angular-icon.svg" alt="Angular icon" />
-          <h3>Angular</h3>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card__header bg-bootstrap">
-          <img src="../assets/bootstrap-icon.svg" alt="Bootstrap icon" />
           <h3>Bootstrap</h3>
         </div>
       </div>
@@ -49,12 +37,6 @@
       <div class="card">
         <div class="card__header bg-svelte">
           <img src="../assets/svelte-icon.svg" alt="Svelte icon" />
-          <h3>Svelte</h3>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card__header bg-typescript">
-          <img src="../assets/typescript-icon.svg" alt="Typescript icon" />
           <h3>Typescript</h3>
         </div>
       </div>

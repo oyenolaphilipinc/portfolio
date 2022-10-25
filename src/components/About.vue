@@ -8,7 +8,7 @@
       <div class="about" data-aos="fade-left">
         <h2>Hi there I am Philip</h2>
         <p>
-          I am a 16 year old Programmer. I have expertise in Web development, App development, Software Development and Artificial Intelligence. I started programming when I was 12 and now I have 4 years expertise in these technologies. I love programming and building with the skills I have. I love exploring Machine Learning, Deep learning and Computer Vision in general.
+          I am a young Programmer trying to solve world problems. I have expertise in Web development, App development, Software Development and Artificial Intelligence. I started programming when I was 12 and now I have 4 years expertise in these technologies. I love programming and building with the skills I have. I love exploring Machine Learning, Deep learning and Computer Vision in general.
         </p>
         <div class="social-links">
           <a href="https://www.linkedin.com/in/oyenolaphilip/" target="_blank">
@@ -18,7 +18,7 @@
             <img src="../assets/linkedin-icon.svg" alt="Icone Linkedin" />
           </a>
 
-          <a href="https://github.com/oyenolaayomide" target="_blank">
+          <a href="https://github.com/oyenolaphilipinc" target="_blank">
             <span class="social__span">
               GitHub
             </span>
@@ -30,16 +30,6 @@
               Instagram
             </span>
             <img src="../assets/instagram-icon.svg" alt="Icone Instagram" />
-          </a>
-
-          <a
-            href="https://discord.com/users/426120432991862784"
-            target="_blank"
-          >
-            <span class="social__span">
-              Discord
-            </span>
-            <img src="../assets/discord-icon.svg" alt="Icone Discord" />
           </a>
         </div>
         <a class="btn" href="/brandresume.pdf" download="Philip_CV.pdf"
