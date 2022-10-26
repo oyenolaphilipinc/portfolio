@@ -25,7 +25,7 @@
             <img src="../assets/github-icon.svg" alt="Icone GitHub" />
           </a>
 
-          <a href="https://www.instagram.com/travelpartna/" target="_blank">
+          <a href="https://www.instagram.com/webdevphilip/" target="_blank">
             <span class="social__span">
               Instagram
             </span>
@@ -55,7 +55,7 @@ section {
   gap: 2rem;
 }
 .profile {
-  background-image: url("../assets/bossman.jpg");
+  background-image: url("../assets/philip.jpeg");
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
