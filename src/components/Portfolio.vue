@@ -40,7 +40,7 @@
             A music library page built in HTML and CSS. This project is also fun and great.
           </p>
           <a
-            href="https://joaotuliojt.github.io/dv-musica-library-page/"
+            href="https://oyenolaphilipinc.github.io/dv-musica-library/"
             target="_blank"
             class="btn"
             title="Veja o site"
@@ -63,7 +63,7 @@
            Frontend mentor project oriented. This project is built in JavaScript
           </p>
           <a
-            href="https://joaotuliojt.github.io/sunnyside-agency/"
+            href="https://oyenolaphilipinc.github.io/sunnyside-agency/"
             target="_blank"
             class="btn"
             title="Veja o site"
