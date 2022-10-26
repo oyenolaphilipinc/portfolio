@@ -36,7 +36,7 @@
       </div>
       <div class="card">
         <div class="card__header bg-svelte">
-          <img src="../assets/svelte-icon.svg" alt="Svelte icon" />
+          <img src="../assets/typescript-icon.svg" alt="Svelte icon" />
           <h3>Typescript</h3>
         </div>
       </div>
