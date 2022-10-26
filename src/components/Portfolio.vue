@@ -40,7 +40,7 @@
             A music library page built in HTML and CSS. This project is also fun and great.
           </p>
           <a
-            href="https://oyenolaphilipinc.github.io/dv-musica-library/"
+            href="https://oyenolaphilipinc.github.io/music-library/"
             target="_blank"
             class="btn"
             title="Veja o site"
