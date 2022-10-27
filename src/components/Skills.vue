@@ -24,7 +24,7 @@
       </div>
       <div class="card">
         <div class="card__header bg-vue">
-          <img src="../assets/vue-icon.svg" alt="Vue icon" />
+          <img src="../assets/bootstrap-icon.svg" alt="Vue icon" />
           <h3>Bootstrap</h3>
         </div>
       </div>
