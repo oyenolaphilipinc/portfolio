@@ -60,6 +60,12 @@
           <h3>React</h3>
         </div>
       </div>
+      <div class="card">
+        <div class="card__header bg-react">
+          <img src="../assets/python.svg" alt="React icon" />
+          <h3>Python</h3>
+        </div>
+      </div>
     </div>
   </section>
 </template>
