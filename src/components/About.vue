@@ -8,7 +8,7 @@
       <div class="about" data-aos="fade-left">
         <h2>Hi there I am Philip</h2>
         <p>
-          I am a young Programmer trying to solve world problems. I have expertise in Web development, App development, Software Development and Artificial Intelligence. I started programming when I was 12 and now I have 4 years expertise in these technologies. I love programming and building with the skills I have. I love exploring Machine Learning, Deep learning and Computer Vision in general.
+          I am a young Programmer trying to solve world problems. I have expertise in Web development and Artificial Intelligence. I started programming when I was 14 and now I have 2 years expertise in these technologies. I love programming and building with the skills I have. I love exploring Machine Learning, Deep learning and Computer Vision in general. I love building projects to improve my skills and also learn from other developers along the way.
         </p>
         <div class="social-links">
           <a href="https://www.linkedin.com/in/oyenolaphilip/" target="_blank">

@@ -56,7 +56,7 @@
       </div>
       <div class="card">
         <div class="card__header bg-react">
-          <img src="../assets/react.png" alt="React icon" />
+          <img src="../assets/react.svg" alt="React icon" />
           <h3>React</h3>
         </div>
       </div>
