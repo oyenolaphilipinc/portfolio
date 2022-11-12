@@ -7,17 +7,17 @@
       <div class="project" data-aos="fade-up">
         <div class="project__image">
           <img
-            src="https://github.com/joaotuliojt/fc-squad43/raw/main/github/tela_inicial.png"
+            src="../assets/app.png"
             alt=""
           />
         </div>
         <div class="description">
-          <h3>Hackathon: FCallendar</h3>
+          <h3>Gpt3</h3>
           <p>
-            FCallendar app built in Javscript and connected a backend to it. it is fun and great to work with.
+            Gpt3 app built in Javscript and React and tailwind for styling.
           </p>
           <a
-            href="https://github.com/joaotuliojt/fc-squad43"
+            href="https://gpt3-ten.vercel.app"
             target="_blank"
             class="btn"
             title="Veja o site"
@@ -98,15 +98,15 @@
       </div>
       <div class="project" data-aos="fade-up">
         <div class="project__image">
-          <img src="../assets/Cronometro.gif" alt="" />
+          <img src="../assets/hoobank.png" alt="" />
         </div>
         <div class="description">
-          <h3>Cronômetro</h3>
+          <h3>Hoobank</h3>
           <p>
-            An HTML, CSS and JavaScript oriented project.
+            This app was built in React and Tailwind
           </p>
           <a
-            href="https://joaotuliojt.github.io/timer-Js/"
+            href="https://hoobank-slic.vercel.app"
             target="_blank"
             class="btn"
             title="Veja o site"

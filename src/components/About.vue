@@ -32,7 +32,7 @@
             <img src="../assets/instagram-icon.svg" alt="Icone Instagram" />
           </a>
         </div>
-        <a class="btn" href="/brandresume.pdf" download="Philip_CV.pdf"
+        <a class="btn" href="./resume.pdf" download="resume.pdf"
           >Check My Cv
         </a>
       </div>
