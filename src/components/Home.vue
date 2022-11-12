@@ -13,7 +13,7 @@
     </div>
     <div class="home__message">
       <h2>
-        <span class="pre-message">Hobbies: </span>
+        <span class="pre-message">I am a </span>
         <span id="type-writter" class="typed"></span>
       </h2>
     </div>
@@ -44,7 +44,7 @@ export default {
   mounted() {
     let script = document.createElement("script");
     script.innerHTML = `var typed = new Typed("#type-writter", {
-      strings: ["Programming", "JavaScript", "TypeScript", "React.Js", "Python", "Machine Learning"],
+      strings: ["Full Stack Web Developer", "Blockchain Engineer", "Data Scientist"],
       typeSpeed: 70,
       smartBackspace: true,
       startDelay: 1000,
