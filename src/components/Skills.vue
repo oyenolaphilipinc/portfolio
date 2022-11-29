@@ -62,8 +62,14 @@
       </div>
       <div class="card">
         <div class="card__header bg-react">
-          <img src="../assets/python.svg" alt="React icon" />
+          <img src="../assets/python.svg" alt="Python icon" />
           <h3>Python</h3>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card__header bg-react">
+          <img src="../assets/redux.svg" alt="Redux icon" />
+          <h3>Redux</h3>
         </div>
       </div>
     </div>
