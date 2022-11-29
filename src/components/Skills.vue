@@ -72,6 +72,12 @@
           <h3>Redux</h3>
         </div>
       </div>
+      <div class="card">
+        <div class="card__header bg-react">
+          <img src="../assets/next.svg" alt="Next icon" />
+          <h3>Next</h3>
+        </div>
+      </div>
     </div>
   </section>
 </template>
