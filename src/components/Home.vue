@@ -44,7 +44,7 @@ export default {
   mounted() {
     let script = document.createElement("script");
     script.innerHTML = `var typed = new Typed("#type-writter", {
-      strings: ["Full Stack Web Developer", "Blockchain Engineer", "Data Scientist"],
+      strings: ["Front end developer", "Full Stack Web Developer", "Machine Learning Engineer"],
       typeSpeed: 70,
       smartBackspace: true,
       startDelay: 1000,
